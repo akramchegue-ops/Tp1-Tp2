@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+#barre {
+    width: 400px;
+    max-width: 100%;
+    height: 30px;
+    background-color: lightgray;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: auto;
+}
+
+#progression {
+    width: 0%;
+    height: 100%;
+    background-color: royalblue;
+}
+
+button {
+    padding: 10px 25px;
+    cursor: pointer;
+}

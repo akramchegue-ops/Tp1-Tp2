@@ -1,0 +1,17 @@
+#myD{
+   
+    text-align: center;
+    font-size: 10em;
+   
+   
+
+}
+#myB{
+    color : red;
+    margin-left: 10em;
+    width: 150px;
+    height: 100px;
+    background-color :lightgreen;
+    font-size:large;
+    cursor:pointer;
+}

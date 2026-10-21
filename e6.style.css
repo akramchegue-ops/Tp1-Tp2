@@ -1,0 +1,14 @@
+#bt {
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+    width: 250px;
+}
+
+#menu {
+    display: none;
+    background-color: lightgray;
+    width: 250px;
+    padding: 15px;
+}

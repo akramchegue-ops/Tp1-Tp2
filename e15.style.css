@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+    color: black;
+    padding: 30px;
+}
+
+.card {
+    background-color: #eeeeee;
+    padding: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+button {
+    padding: 12px 25px;
+    cursor: pointer;
+}
+
+/* Mode sombre */
+
+body.dark {
+    background-color: #181818;
+    color: white;
+}
+
+body.dark .card {
+    background-color: #333333;
+}
